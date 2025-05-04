@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: A package for Movie Recc system
+Author: Kaushik
+Author-email: 
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Movie Recc system
